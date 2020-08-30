@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\vpaln\source\repos\SFML\SFML\main.cpp(46,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\vpaln\source\repos\SFML\SFML\main.cpp(52,20): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\vpaln\source\repos\SFML\SFML\main.cpp(69,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\vpaln\source\repos\SFML\SFML\main.cpp(70,35): warning C4018: <: несоответствие типов со знаком и без знака
+  SFML.vcxproj -> C:\Users\vpaln\source\repos\SFML\Debug\SFML.exe
